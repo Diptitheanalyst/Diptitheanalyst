@@ -1,6 +1,6 @@
 # Hi, I'm Dipti 👋
 
-### Business Analyst → Data & Reporting Analyst | Power BI · SQL · Excel · Adelaide, SA
+### Business Analyst → Data & Reporting Analyst | Power BI · SQL · Excel
 
 ---
 
