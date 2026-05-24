@@ -6,14 +6,13 @@
 
 ## About Me
 
-I'm a Business Analyst with 3 years of experience, specialising in the **data and reporting side** of analytics — working with data pipelines, SQL queries, and reporting tools rather than traditional process mapping.
+I’m a Business Analyst specialising in data analytics and reporting, with a strong focus on **data pipelines**, **SQL querying**, and reporting solutions rather than traditional process mapping.
 
-Most of my work has involved pulling data from multiple systems like local Excel folder, **Sharepoint**, **Maximo ERP** through **SQL**, **API Connection** into Power BI, Excel, and bringing it together into reports that actually mean something to the people reading them. 
+My experience has involved extracting and consolidating data from multiple systems including **local Excel files, SharePoint, ERP systems, SQL databases**and **API connections** and transforming it into meaningful insights through tools such as Power BI and Excel.
 
- I am always curious about how things work under the hood — whether that is a DAX measure, a SQL query, or a Power Query transformation. I am currently deepening my technical skills and this GitHub is where I document and share that journey.
+I’m naturally curious about how things work under the hood, whether that’s a **DAX measure, SQL query, API integration, or Power Query transformation**. I enjoy understanding not just how to build reports, but how the data flows and connects behind the scenes. I’m currently continuing to deepen my technical skill set and this GitHub is where I document and share that journey.
 
-My goal is simple: to bring strong, reliable data skills to a team where I can **contribute meaningful insights to senior leaders** and help them make confident, data-driven decisions.
-
+My goal is simple: to bring strong, reliable data and reporting skills to a team where I can contribute meaningful insights, support senior leaders in decision-making and help drive confident, data-driven outcomes.
 
 ---
 
